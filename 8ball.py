@@ -22,7 +22,7 @@ while ans:
     if question == "":
         sys.exit()
 
-    elif question == "Parles-tu Francais":
+    elif question == "parles-tu francais":
          sprint(" Désolé, J'apprends le français\n")
     elif answers == 1:
         sprint(" It is certain\n")
@@ -37,7 +37,7 @@ while ans:
 
 
     elif answers == 4:
-         sprint(" Ask again latern\n")
+         sprint(" Ask again later\n")
 
 
     elif answers == 5:
